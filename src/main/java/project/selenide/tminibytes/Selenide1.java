@@ -10,7 +10,6 @@ import static com.codeborne.selenide.Selenide.open;
 
 import org.junit.Test;
 
-import com.codeborne.selenide.Condition;
 import com.codeborne.selenide.WebDriverRunner;
 
 public class Selenide1 {
